@@ -1,0 +1,24 @@
+---
+awsebscsiprovisioner2:
+  display_name: awsebscsiprovisioner2
+  description: awsebscsiprovisioner2
+  logo: awsebscsiprovisioner/logo.svg
+  category: other
+  overview: awsebscsiprovisioner/overview.md
+  resources:
+    links:
+      - type: support
+        title: Submit a Support Request
+        link: https://d2iq.com/services-and-support
+---
+cockroachdb:
+  display_name: cockroachdb
+  description: cockroachdb
+  logo: cockroachdb/logo.png
+  category: other
+  overview: cockroachdb/overview.md
+  resources:
+    links:
+      - type: support
+        title: Support Resources
+        link: https://www.cockroachlabs.com/docs/stable/support-resources.html
